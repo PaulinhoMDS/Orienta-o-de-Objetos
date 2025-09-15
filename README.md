@@ -1,2 +1,2 @@
-# Orienta-o-de-Objetos
+# Orientação-de-Objetos
 Repositório referente a matéria da faculdade
